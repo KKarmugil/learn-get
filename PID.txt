@@ -6,3 +6,4 @@ export const NOTIFICATIONS_PRT_ID = config.doc_type.notifications;
 export const USERS_PRT_ID = config.doc_type.user_account;
 export const COMPANY_PRT_ID = config.doc_type.company_account;
 
+ss
